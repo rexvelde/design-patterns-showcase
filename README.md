@@ -8,7 +8,7 @@ I use the table given here https://refactoring.guru/design-patterns/catalog for 
 ## Table of Contents
 *When language is included, it has been implemented*
 1. Observer (Behavioral - Kotlin)
-2. Factory (Creational)
+2. Factory (Creational - Kotlin)
 3. Abstract Factory (Creational)
 4. Builder (Creational)
 5. Prototype (Creational)
@@ -20,7 +20,7 @@ I use the table given here https://refactoring.guru/design-patterns/catalog for 
 11. Facade (Structural)
 12. Flyweight (Structural)
 13. Proxy (Structural)
-14. Chain of Reponsibility (Behavioral)
+14. Chain of Responsibility (Behavioral)
 15. Command (Behavioral)
 16. Iterator (Behavioral)
 17. Mediator (Behavioral)
