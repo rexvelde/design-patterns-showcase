@@ -29,3 +29,7 @@ I use the table given here https://refactoring.guru/design-patterns/catalog for 
 20. Strategy (Behavioral)
 21. Template Method (Behavioral)
 22. Visitor (Behavioral)
+
+- [ ] Item 1
+- [x] Item 2
+
